@@ -2,7 +2,7 @@
 name: "\U0001F6E0 Feature request"
 about: Suggest an addition or change to the design system
 title: ''
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---
