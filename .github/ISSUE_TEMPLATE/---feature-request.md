@@ -1,6 +1,6 @@
 ---
 name: "\U0001F6E0 Feature request"
-about: Suggest an idea for the design system
+about: Suggest an addition or change to the design system
 title: ''
 labels: ''
 assignees: ''
